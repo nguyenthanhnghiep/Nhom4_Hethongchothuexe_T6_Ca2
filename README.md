@@ -4,8 +4,11 @@
 Mô tả: Luxury Car  là ứng dụng cho thuê xe hàng đầu với một loạt các tính năng và lợi ích độc đáo.
 Với Luxury Car , bạn không cần phải sở hữu một chiếc xe để di chuyển một cách thuận tiện và tiết kiệm thời gian. Dưới đây là những điểm nổi bật của ứng dụng này:
 1.Đa dạng lựa chọn xe: Luxury Car cung cấp một loạt các loại xe từ sedan, SUV, đến xe hơi thể thao và xe điện. Bạn có thể tùy chỉnh lựa chọn xe dựa trên nhu cầu cụ thể của bạn.
+
 2.Đặt xe dễ dàng: Với giao diện người dùng thân thiện và dễ sử dụng, bạn có thể đặt xe chỉ trong vài cú nhấp chuột. Chọn thời gian và địa điểm giao nhận xe, và ứng dụng sẽ tự động tìm kiếm các lựa chọn phù hợp nhất.
+
 3.Giá cả cạnh tranh: Luxury Car cam kết cung cấp giá cả cạnh tranh và rõ ràng. Bạn sẽ biết trước giá thuê và không có phí ẩn. Có nhiều tùy chọn thanh toán, bao gồm cả ví điện tử và thẻ tín dụng.
+
 4.Thanh toán an toàn và bảo mật: Dữ liệu cá nhân và thông tin thanh toán của bạn được bảo mật tuyệt đối
 ![Công ty thuê xe](https://github.com/louisfarm/QLXe/assets/117491243/1b5f810e-fb5d-407f-ada0-63d0eba91e30)
 
