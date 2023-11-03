@@ -25,6 +25,8 @@ Với Luxury Car , bạn không cần phải sở hữu một chiếc xe để d
 * Đặt xe
 * Hợp Đồng 
 * Thanh toán
+## Chức năng phát triển thêm
+* Thanh Toán QR
 ## Công nghệ sử dụng 
 * Sử dụng công nghệ PHP
 * ![php-la-gi_1](https://github.com/nguyenthanhnghiep/Nhom4_Hethongchothuexe_T6_Ca2/assets/117718527/e9a349c4-6c6d-471f-9d0b-7c5ca7d643ff)
