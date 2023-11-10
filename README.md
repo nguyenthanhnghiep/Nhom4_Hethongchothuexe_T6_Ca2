@@ -33,7 +33,9 @@ Với Luxury Car , bạn không cần phải sở hữu một chiếc xe để d
 * Thanh Toán QR : Liên kết với hệ thống của Zalo Pay để tiến hành thanh toán nhanh
 ## Công nghệ sử dụng 
 * Sử dụng công nghệ PHP :
-   1/Ngôn ngữ PHP là từ viết tắt của Personal Home Page (hiện nay là Hypertext Preprocessor). Thuật ngữ này chỉ chuỗi ngôn ngữ kịch bản hay mã lệnh, phù hợp để phát triển cho các ứng dụng nằm trên máy chủ.
+
+  1/Ngôn ngữ PHP là từ viết tắt của Personal Home Page (hiện nay là Hypertext Preprocessor). Thuật ngữ này chỉ chuỗi ngôn ngữ kịch bản hay mã lệnh, phù hợp để phát triển cho các ứng dụng nằm trên máy chủ.
 
   2/Khi viết phần mềm bằng ngôn ngữ PHP, chuỗi lệnh sẽ được xử lý trên server để từ đó sinh ra mã HTML trên client. Và dựa vào đó, các ứng dụng trên website của bạn sẽ hoạt động một cách dễ dàng.
+
  ![php-la-gi_1](https://github.com/nguyenthanhnghiep/Nhom4_Hethongchothuexe_T6_Ca2/assets/117718527/e9a349c4-6c6d-471f-9d0b-7c5ca7d643ff)
