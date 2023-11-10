@@ -24,13 +24,16 @@ Với Luxury Car , bạn không cần phải sở hữu một chiếc xe để d
 
 ![z4799057621115_5e606c068beeb9abf7e2c21e65e5b70a](https://github.com/louisfarm/QLXe/assets/117491243/d2528233-806d-4f15-99eb-7d0832c2c26b)
 ## Chức năng chính
-* Quản lí xe 
-* Quản lí loại xe
-* Đặt xe
-* Hợp Đồng 
-* Thanh toán
+* Quản lí xe : Cho phép quản lí thêm xóa tên xe biển số xe 
+* Quản lí loại xe : Cho phép quản lí cập nhập chỉnh sửa loai xe
+* Đặt xe : Cho phép nhân viên kế toán giúp khách hàng đặt xe trong quá trình trao đổi với khách hàng
+* Hợp Đồng : Kế toán tiến hành làm hợp đồng trả trước 50% cho khách hàng
+* Thanh toán : Từ hợp đồng khách hàng sẽ thanh toán 50% còn lại
 ## Chức năng phát triển thêm
-* Thanh Toán QR
+* Thanh Toán QR : Liên kết với hệ thống của Zalo Pay để tiến hành thanh toán nhanh
 ## Công nghệ sử dụng 
-* Sử dụng công nghệ PHP
-* ![php-la-gi_1](https://github.com/nguyenthanhnghiep/Nhom4_Hethongchothuexe_T6_Ca2/assets/117718527/e9a349c4-6c6d-471f-9d0b-7c5ca7d643ff)
+* Sử dụng công nghệ PHP :
+   1/Ngôn ngữ PHP là từ viết tắt của Personal Home Page (hiện nay là Hypertext Preprocessor). Thuật ngữ này chỉ chuỗi ngôn ngữ kịch bản hay mã lệnh, phù hợp để phát triển cho các ứng dụng nằm trên máy chủ.
+
+  2/Khi viết phần mềm bằng ngôn ngữ PHP, chuỗi lệnh sẽ được xử lý trên server để từ đó sinh ra mã HTML trên client. Và dựa vào đó, các ứng dụng trên website của bạn sẽ hoạt động một cách dễ dàng.
+ ![php-la-gi_1](https://github.com/nguyenthanhnghiep/Nhom4_Hethongchothuexe_T6_Ca2/assets/117718527/e9a349c4-6c6d-471f-9d0b-7c5ca7d643ff)
