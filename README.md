@@ -23,7 +23,7 @@ Với Luxury Car , bạn không cần phải sở hữu một chiếc xe để d
 ## Giao diện
 
 ![image](https://github.com/nguyenthanhnghiep/Nhom4_Hethongchothuexe_T6_Ca2/assets/117718527/4cf63acd-35ab-4a81-865e-9693df71dc01)
-![image](https://github.com/nguyenthanhnghiep/Nhom4_Hethongchothuexe_T6_Ca2/assets/117718527/9af0463b-305c-48a2-8b8d-1843637d47cc)
+
 ## Chức năng chính
 * Quản lí xe : Cho phép quản lí thêm xóa tên xe biển số xe 
 * Quản lí loại xe : Cho phép quản lí cập nhập chỉnh sửa loai xe
