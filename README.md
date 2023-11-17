@@ -31,7 +31,8 @@ Với Luxury Car , bạn không cần phải sở hữu một chiếc xe để d
 * Hợp Đồng : Kế toán tiến hành làm hợp đồng trả trước 50% cho khách hàng
 * Thanh toán : Từ hợp đồng khách hàng sẽ thanh toán 50% còn lại
 ## Chức năng phát triển thêm
-* Thanh Toán QR : Liên kết với hệ thống của Zalo Pay để tiến hành thanh toán nhanh
+* Thanh Toán QR : Liên kết với hệ thống của Zalo Pay để tiến hành thanh toán nhanh (Chưa hoàn thành )
+* Biểu đồ doanh thu : Biểu đồ doanh thu cho thuê xe theo quý (Đã hoàn thành )
 ## Công nghệ sử dụng 
 * Sử dụng công nghệ PHP :
 
